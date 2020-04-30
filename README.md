@@ -12,3 +12,6 @@ Time: 4/29/2020
 + Equity 5 industry portfolio data:
     - Ken French Data Library: https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
     
+
+### usage 
+start from main_script, which will call the other helper functions.
